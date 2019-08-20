@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552880206 source:c:\users\manishbainsla\desktop\car parking\main.cpp
+	<iostream>
+	<cstdlib>
+
